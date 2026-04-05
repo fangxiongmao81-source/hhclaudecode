@@ -23,7 +23,7 @@
 ## Quick Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/paoloanzn/free-code/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/fangxiongmao81-source/hhclaudecode/main/install.sh | bash
 ```
 
 Checks your system, installs Bun if needed, clones the repo, builds with all experimental features enabled, and symlinks `free-code` on your PATH.
