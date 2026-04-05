@@ -50,7 +50,7 @@ Then run `free-code` and use the `/login` command to authenticate with your pref
 ---
 
 ## What is this
-
+Note: This is a personal mirror/fork of the original free-code project. (注：这是原项目的个人备份/分支版。)
 A clean, buildable fork of Anthropic's [Claude Code](https://docs.anthropic.com/en/docs/claude-code) CLI -- the terminal-native AI coding agent. The upstream source became publicly available on March 31, 2026 through a source map exposure in the npm distribution.
 
 This fork applies three categories of changes on top of that snapshot:
@@ -175,7 +175,7 @@ curl -fsSL https://bun.sh/install | bash
 ## Build
 
 ```bash
-git clone https://github.com/paoloanzn/free-code.git
+git clone https://github.com/fangxiongmao81-source/hhclaudecode.git
 cd free-code
 bun build
 ./cli
